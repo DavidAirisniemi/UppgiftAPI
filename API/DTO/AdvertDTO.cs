@@ -1,8 +1,6 @@
-﻿using API.DTO;
-
-namespace API.Data
+﻿namespace API.DTO
 {
-    public class Advert
+    public class AdvertDTO
     {
         public int Id { get; set; }
         public int Price { get; set; }
